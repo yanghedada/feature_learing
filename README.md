@@ -1,7 +1,5 @@
 # feature_learing
 feature engineering
-# feature_learing
-feature engineering
 
 这是直接在notebook 运行的一些代码 ， 学习机器学习半年的心得。
 
